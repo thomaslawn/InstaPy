@@ -556,8 +556,7 @@ class InstaPy:
                         liked = like_image(self.browser,
                                            user_name,
                                            self.blacklist,
-                                           self.logger,
-                                           self.logfolder)
+                                           self.logger)
 
                         if liked:
                             liked_img += 1
@@ -847,8 +846,7 @@ class InstaPy:
                         liked = like_image(self.browser,
                                            user_name,
                                            self.blacklist,
-                                           self.logger,
-                                           self.logfolder)
+                                           self.logger)
 
                         if liked:
 
@@ -1045,8 +1043,7 @@ class InstaPy:
                         liked = like_image(self.browser,
                                            user_name,
                                            self.blacklist,
-                                           self.logger,
-                                           self.logfolder)
+                                           self.logger)
 
                         if liked:
                             total_liked_img += 1
@@ -1209,8 +1206,7 @@ class InstaPy:
                             liked = like_image(self.browser,
                                                user_name,
                                                self.blacklist,
-                                               self.logger,
-                                               self.logfolder)
+                                               self.logger)
                         else:
                             liked = True
 
@@ -1589,8 +1585,7 @@ class InstaPy:
                                 liked = like_image(self.browser,
                                                    user_name,
                                                    self.blacklist,
-                                                   self.logger,
-                                                   self.logfolder)
+                                                   self.logger)
 
                                 if liked:
                                     username = (self.browser.
