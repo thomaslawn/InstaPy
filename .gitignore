@@ -99,3 +99,20 @@ ENV/
 # Editors
 .idea
 .vscode
+215.py
+215_v2.py
+booktest.py
+215_v2.py
+215_v2.py
+logs/215_blackandwhite
+215_2.py
+*.py
+db/instapy.db
+logs/booklist_2018/booklist_2018_cookie.pkl
+logs/booklist_2018/booklist_2018_followedPool.csv
+logs/booklist_2018/booklist_2018_record_all_followed.csv
+logs/booklist_2018/followerNum.txt
+logs/booklist_2018/followed.txt
+logs/booklist_2018/followRestriction.json
+215_2.py
+215_2.py
